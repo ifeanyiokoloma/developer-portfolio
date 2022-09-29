@@ -1,10 +1,9 @@
 export const experienceData = [
-    {
-        id: 1,
-        company: 'Globex Corporation',
-        jobtitle: 'Frontend Developer',
-        startYear: '2018',
-        endYear: '2019'
-    },
-    
-]
+  {
+    id: 1,
+    company: "CC7 Computers",
+    jobtitle: "Frontend Developer",
+    startYear: "2021",
+    endYear: "Present",
+  },
+];
