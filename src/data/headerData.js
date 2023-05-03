@@ -1,6 +1,7 @@
 import resume from "../assets/pdf/resume.pdf";
 
 export const headerData = {
+  logo: "IfeanyiOkoloma",
   name: "Ifeanyi Okoloma",
   title: "Web Developer",
   desciption:

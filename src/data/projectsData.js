@@ -10,12 +10,21 @@
 export const projectsData = [
   {
     id: 1,
-    projectName: "CC7 Website",
+    projectName: "CC7 Computers",
     projectDesc: "A business Website",
     tags: ["React", "MUI", "Bootstrap", "Firebase"],
     code: "https://github.com/cc7computers",
-    demo: "https://cc7computers.com/",
+    demo: "https://cc7computers.netlify.app/",
     image: "./cc7.png",
+  },
+  {
+    id: 2,
+    projectName: "Kaiserlowe Construction Company",
+    projectDesc: "A business Website",
+    tags: ["React", "MUI"],
+    code: "https://github.com/kaiserlowe",
+    demo: "https://kaiserlowe.netlify.app/",
+    image: "./kaiserlowe.png",
   },
 ];
 

@@ -3,17 +3,17 @@ import { Helmet } from "react-helmet";
 
 import {
   Navbar,
-  //   Footer,
+    Footer,
   Landing,
   About,
   Skills,
   //   Testimonials,
   //   Blog,
   Education,
-  //   Experience,
+    Experience,
   Contacts,
   Projects,
-  //   Services,
+    Services,
   //   Achievement,
 } from "../../components";
 import { headerData } from "../../data/headerData";
@@ -30,11 +30,13 @@ function Main() {
       <About />
       <Skills />
       <Education />
+      <Experience />
       <Projects />
+      <Services />
       {/* <Achievement /> */}
       {/* <Blog /> */}
       <Contacts />
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 }
