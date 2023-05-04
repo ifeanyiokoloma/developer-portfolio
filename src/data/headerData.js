@@ -5,7 +5,7 @@ export const headerData = {
   name: "Ifeanyi Okoloma",
   title: "Web Developer",
   desciption:
-    "I'm a perfectionist. I'm never satisfied so I improve on a daily",
+    "I'm a perfectionist. I'm never satisfied so I improve on a daily.",
   image: "./ifeanyiOkoloma.jpg",
   resumePdf: resume,
 };
