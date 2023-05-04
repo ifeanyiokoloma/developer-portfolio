@@ -9,6 +9,7 @@ import css from '../assets/svg/skills/css.svg'
 import angular from '../assets/svg/skills/angular.svg'
 import javascript from '../assets/svg/skills/javascript.svg'
 import nextJS from '../assets/svg/skills/nextJS.svg'
+import nodeJS from '../assets/svg/skills/nodeJS.svg'
 import nuxtJS from '../assets/svg/skills/nuxtJS.svg'
 import react from '../assets/svg/skills/react.svg'
 import svelte from '../assets/svg/skills/svelte.svg'
@@ -103,6 +104,8 @@ export const skillsImage = (skill) => {
             return nextJS;
         case 'nuxt js':
             return nuxtJS;
+        case 'node js':
+            return nodeJS;
         case 'react':
             return react;
         case 'svelte':
@@ -177,7 +180,7 @@ export const skillsImage = (skill) => {
             return graphql;
         case 'lightroom':
             return lightroom;
-        case 'materialui':
+        case 'mui':
             return materialui;
         case 'nginx':
             return nginx;
