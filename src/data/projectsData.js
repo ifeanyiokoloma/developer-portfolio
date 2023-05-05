@@ -10,12 +10,12 @@
 export const projectsData = [
   {
     id: 1,
-    projectName: "CC7 Computers",
-    projectDesc: "A business Website",
-    tags: ["React", "MUI", "Bootstrap", "Firebase"],
-    code: "https://github.com/ifeanyiokoloma/cc7computers",
-    demo: "https://cc7computers.netlify.app/",
-    image: "./cc7.png",
+    projectName: "Yunikstarz Sports Agency",
+    projectDesc: "Sports agency Website",
+    tags: ["React", "MUI"],
+    code: "https://github.com/ifeanyiokoloma/sports-page",
+    demo: "https://yunikstarz.netlify.app/",
+    image: "./yunikstarz.png",
   },
   {
     id: 2,
@@ -25,6 +25,15 @@ export const projectsData = [
     code: "https://github.com/ifeanyiokoloma/kaiserlowe",
     demo: "https://kaiserlowe.netlify.app/",
     image: "./kaiserlowe.png",
+  },
+  {
+    id: 3,
+    projectName: "CC7 Computers",
+    projectDesc: "A business Website",
+    tags: ["React", "MUI", "Bootstrap", "Firebase"],
+    code: "https://github.com/ifeanyiokoloma/cc7computers",
+    demo: "https://cc7computers.netlify.app/",
+    image: "./cc7.png",
   },
 ];
 
